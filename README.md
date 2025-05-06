@@ -46,7 +46,7 @@ The project's data was obtained from the Kaggle Walmart Sales Dataset. It encomp
 
 **6.	SQL Analysis: Complex Queries and Business Problem Solving**
 
-Some of the critical business problems, such as:
+Some of the critical business problems, such as: <br/>
 •	Revenue trends across branches and categories <br/>
 •	Identifying best-selling product categories <br/>
 •	Sales performance by time, city, and payment method <br/>
@@ -55,7 +55,7 @@ Some of the critical business problems, such as:
 
 **7.	Tableau Dashboard:**
 
-Developed Tableau Dashboard to visualize some of the Key performance Indicators (KPI’s) as,
+Developed Tableau Dashboard to visualize some of the Key performance Indicators (KPI’s) as, <br/>
 •	The Profit vs Rating dual-axis chart in Tableau shows how profitability relates to customer satisfaction. An interactive parameter allows users to switch views by top N cities. This enables dynamic analysis to identify patterns between profit and rating across different cities <br/>
 •	The heat map chart shows the busiest day of the week for each branch based on the number of transactions. This is done by fixed LOD function. An interactive parameter allows users to select the number of top branches to display <br/>
 •	Sales trends over the years, segmented by product categories. It helps identify growth patterns and compare category performance across different time periods <br/>
