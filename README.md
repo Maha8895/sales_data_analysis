@@ -64,4 +64,3 @@ Developed Tableau Dashboard to visualize some of the Key performance Indicators 
 •	Built using Tableau Public and packaged as a `.twbx` file for easy sharing.
 
 
-![image](https://github.com/user-attachments/assets/606b5408-1fee-4f10-963f-de8cf5f380b3)
