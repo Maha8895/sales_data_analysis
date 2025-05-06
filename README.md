@@ -5,18 +5,8 @@ The main objective of the Project is to preprocess , analyze and visualize the W
 **About the Data:**
 
 The project's data was obtained from the Kaggle Walmart Sales Dataset. It encompasses sales transactions from 100 Walmart branches situated in various cities. The data contains 11 columns and 10000 rows.
-Column	Description	Data Type
-invoice_id	Invoice of the sales made	Int64
-branch	Branch at which the transactions were made	object
-city	The location of the branch	object
-category	The type of the product	object
-unit_price	The price of each product	object
-quantity	No.of.products sold	object
-date	The date on which the purchase was made	object
-time	The time at which the purchase was made	object
-payment_method	Mode of payment	object
-rating	Rating given by customers	Float64
-Profit_margin	Profit made on sale	Float64
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/f89a279f-207b-4434-9b9f-73fbdc454920" />
 
 **Project Steps:**
 
