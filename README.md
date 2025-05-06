@@ -12,7 +12,7 @@ The project's data was obtained from the Kaggle Walmart Sales Dataset. It encomp
 
 **1.	Tools Used: Visual Studio Code (VS Code), PostgreSQL and Tableau.**
 
-•	Jupyter Notebook v2025.3.0, Python 3.13
+•	Jupyter Notebook v2025.3.0, Python 3.13 <br/>
 •	SQL Database: pgAdmin 4
 •	Python Libraries: pandas, numpy, sqlalchemy, psycopg2
 •	Tableau Public 2024.3.0
